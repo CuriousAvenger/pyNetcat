@@ -1,2 +1,7 @@
 # PY-Netcat
-Netcat or NC is a utility tool that uses TCP and UDP connections to read and write in a network. It can be used for both attacking and security. It helps us to debug the network along with investing it. It runs on all operating systems.
+Netcat is a utility tool that uses TCP and UDP connections to read and write data in a network. Py-Netcat is an attempt to imitate the original Netcat in python3 using socket programming. 
+
+# How To Use
+- git clone https://github.com/CuriousAvenger/Py-Netcat
+- pip install -r requirements.txt
+- python3 Netcat.py # Python3 required
